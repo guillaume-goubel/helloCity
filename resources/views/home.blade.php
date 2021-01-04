@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Hello from city</title>
+        <title>Hello city | home</title>
 
     </head>
     <body>
@@ -16,7 +16,7 @@
     <footer>
     
     <p>
-    &copy; Copyright KONNEKT  {{ date('Y') }} &middot; <a href="#">About us</a>
+    &copy; Copyright KONNEKT  {{ date('Y') }} &middot; <a href="/about">About</a>
     </p>
 
     </footer>
